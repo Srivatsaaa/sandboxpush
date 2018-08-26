@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631627533910",
+    "firebase_url": "https://meduimapp.firebaseio.com",
+    "project_id": "meduimapp",
+    "storage_bucket": "meduimapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631627533910:android:1dda063061011735",
+        "android_client_info": {
+          "package_name": "com.sandbox.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631627533910-gsf2np0uk2i5667sktkl7ars2okvp57n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandbox.push",
+            "certificate_hash": "d4d033a13d45656450970c7b2da7ac1237d19cde"
+          }
+        },
+        {
+          "client_id": "631627533910-j1k2jogp0279igbctdbil92npocu38in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFo3Blj1KKiX8ZSdurkZW27QpY8piu8oo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631627533910-j1k2jogp0279igbctdbil92npocu38in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
