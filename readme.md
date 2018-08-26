@@ -7,7 +7,7 @@ Create an Account in firebase
 ### Prerequisites 
 keytool -exportcert -alias androiddebugkey -keystore debug.keystore -list -v -storepass android
 
-###Create Two Java Files:
+### Create Two Java Files:
 ```
 MyFirebaseInstanceIdService
 
@@ -15,7 +15,7 @@ MyFirebaseMessagingService
 ```
 
 
-###Project Level Gradle Install Prerequisites ( build.gradle):
+### Project Level Gradle Install Prerequisites ( build.gradle):
 ```
 classpath 'com.google.gms:google-services:3.3.0'
 
