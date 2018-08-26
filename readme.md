@@ -26,4 +26,7 @@ classpath 'com.google.gms:google-services:3.3.0'
 implementation 'com.google.firebase:firebase-core:15.0.2'
 implementation 'com.google.firebase:firebase-messaging:15.0.2'
 
+
+apply plugin: 'com.google.gms.google-services'
+
 ```
