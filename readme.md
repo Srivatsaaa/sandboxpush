@@ -41,6 +41,7 @@ classpath 'com.google.gms:google-services:3.3.0'
 
 ### App Level Gradle Install Prerequisites ( build.gradle):
 ```
+implementation 'com.android.support:support-v4:28.0.0'
 implementation 'com.google.firebase:firebase-core:15.0.2'
 implementation 'com.google.firebase:firebase-messaging:15.0.2'
 
